@@ -24,7 +24,6 @@ Z10 DB "NINE.$"
 
 
 MSG db "                      ASSEMBLY PROJECT", 0dh,0ah 
-    db "                      Code's Pathshala", 0dh,0ah
     db "               ==== Children Learning App ====", 0dh,0ah
 	db "                   =====================", 0dh,0ah
 	db "                   Press any key to start...", 0dh,0ah
